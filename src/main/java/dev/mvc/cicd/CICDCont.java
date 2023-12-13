@@ -31,6 +31,3 @@ public class CICDCont {
       log.info(msg);
     }
     
-    return "<h3>" + msg + "</h3>";
-  }
-}
