@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-public class CICDCont { //
+public class CICDCont { //?
   // http://localhost:9091/cicd?sw=-1
   // http://localhost:9091/cicd?sw=0
   // http://localhost:9091/cicd?sw=1
